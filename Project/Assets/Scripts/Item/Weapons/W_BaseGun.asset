@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d57f97699dd88fa48b33687642c0858b, type: 3}
+  m_Name: W_BaseGun
+  m_EditorClassIdentifier: 
+  Name: BaseGun
+  Image: {fileID: 21300000, guid: d05041ad5cce40445ac77e6ed3dd6dab, type: 3}
+  Prefab: {fileID: 1604077336028264, guid: 97f73c73bc6432042af56b58ab088577, type: 2}
+  FunctionToCall: addgun true
+  FlavorText: Simple. Basic.
+  IsResource: 0
+  IsBuff: 0
+  IsWeapon: 1
+  Damage: 10
+  TimeBeforeShoot: 0.5
+  BulletSpeed: 80
+  BulletPatterns:
+  - name: Boulas
+    bullet: {fileID: 1328122084775432, guid: 409c15fe0a1e51841b90ddaa4ecf8522, type: 2}
+    angleOffset: {x: 0, y: 0, z: 0}
+    delay: 0
+  BulletPrefab: {fileID: 1308805155423278, guid: 46fbe9da3024ab44f83b1bbe1b159c33,
+    type: 2}
+  HpBuff: 0
+  DodgeCDR: 0
+  speedBuff: 0
+  armorBuff: 0
+  damageBuff: 0

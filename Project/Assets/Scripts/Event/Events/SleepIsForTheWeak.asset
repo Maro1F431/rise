@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534a8c1d0ea2a8b46891da76681a540f, type: 3}
+  m_Name: SleepIsForTheWeak
+  m_EditorClassIdentifier: 
+  itemList:
+  - {fileID: 11400000, guid: c4ca80228a6a61642aff3cacd678dedb, type: 2}
+  - {fileID: 11400000, guid: 3ef870bc1723ba14983cf66f0dda02a9, type: 2}
+  - {fileID: 11400000, guid: 2f557bd7820780e4b8a134a22bce8ede, type: 2}

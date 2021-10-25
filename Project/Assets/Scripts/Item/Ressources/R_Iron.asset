@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d57f97699dd88fa48b33687642c0858b, type: 3}
+  m_Name: R_Iron
+  m_EditorClassIdentifier: 
+  Name: iron
+  Image: {fileID: 21300000, guid: 8d90a9e8e0f00a645943469dc9f6819c, type: 3}
+  Prefab: {fileID: 1785235301031552, guid: 4cd4b826a4fe845489808572dd8e7868, type: 2}
+  FunctionToCall: 
+  IsResource: 1
+  IsBuff: 0
+  IsWeapon: 0
+  Damage: 0
+  TimeBeforeShoot: 0
+  BulletSpeed: 0
+  BulletPatterns: []
+  BulletPrefab: {fileID: 0}
+  HpBuff: 0
+  DodgeCDR: 0
+  speedBuff: 0
+  armorBuff: 0
+  damageBuff: 0

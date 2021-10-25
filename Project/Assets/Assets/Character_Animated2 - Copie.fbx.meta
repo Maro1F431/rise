@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 7a9ec76d19f8cf2498bd17329b6830d0
+timeCreated: 1524937956
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: ArmIK.L
+    100004: ArmIK.L_end
+    100006: ArmIK.L_end_end
+    100008: ArmIK.R
+    100010: ArmIK.R_end
+    100012: ArmIK.R_end_end
+    100014: Calf.L
+    100016: Calf.L_end
+    100018: Calf.L_end_end
+    100020: Calf.R
+    100022: Calf.R_end
+    100024: Calf.R_end_end
+    100026: //RootNode
+    100028: Chest
+    100030: Cube.001
+    100032: Elbow.L
+    100034: Elbow.L_end
+    100036: Elbow.L_end_end
+    100038: Elbow.R
+    100040: Elbow.R_end
+    100042: Elbow.R_end_end
+    100044: FootIK.L
+    100046: FootIK.L_end
+    100048: FootIK.L_end_end
+    100050: FootIK.R
+    100052: FootIK.R_end
+    100054: FootIK.R_end_end
+    100056: Head
+    100058: Head_end
+    100060: Head_end_end
+    100062: Knee.L
+    100064: Knee.L_end
+    100066: Knee.L_end_end
+    100068: Knee.R
+    100070: Knee.R_end
+    100072: Knee.R_end_end
+    100074: LowerArm.L
+    100076: LowerArm.L_end
+    100078: LowerArm.L_end_end
+    100080: LowerArm.R
+    100082: LowerArm.R_end
+    100084: LowerArm.R_end_end
+    100086: Stomach
+    100088: Thigh.L
+    100090: Thigh.R
+    100092: UpperArm.L
+    100094: UpperArm.R
+    400000: Armature.001
+    400002: ArmIK.L
+    400004: ArmIK.L_end
+    400006: ArmIK.L_end_end
+    400008: ArmIK.R
+    400010: ArmIK.R_end
+    400012: ArmIK.R_end_end
+    400014: Calf.L
+    400016: Calf.L_end
+    400018: Calf.L_end_end
+    400020: Calf.R
+    400022: Calf.R_end
+    400024: Calf.R_end_end
+    400026: //RootNode
+    400028: Chest
+    400030: Cube.001
+    400032: Elbow.L
+    400034: Elbow.L_end
+    400036: Elbow.L_end_end
+    400038: Elbow.R
+    400040: Elbow.R_end
+    400042: Elbow.R_end_end
+    400044: FootIK.L
+    400046: FootIK.L_end
+    400048: FootIK.L_end_end
+    400050: FootIK.R
+    400052: FootIK.R_end
+    400054: FootIK.R_end_end
+    400056: Head
+    400058: Head_end
+    400060: Head_end_end
+    400062: Knee.L
+    400064: Knee.L_end
+    400066: Knee.L_end_end
+    400068: Knee.R
+    400070: Knee.R_end
+    400072: Knee.R_end_end
+    400074: LowerArm.L
+    400076: LowerArm.L_end
+    400078: LowerArm.L_end_end
+    400080: LowerArm.R
+    400082: LowerArm.R_end
+    400084: LowerArm.R_end_end
+    400086: Stomach
+    400088: Thigh.L
+    400090: Thigh.R
+    400092: UpperArm.L
+    400094: UpperArm.R
+    2100000: Material.001
+    4300000: Cube.001
+    7400000: Armature.001|Armature.001|Armature.001|Aim|Armature.001|Aim
+    7400002: Armature.001|Armature.001|Armature.001|Armature.001Action.001|Armature.001|A
+    7400004: Armature.001|Armature.001|Armature.001|Armature.001Action|Armature.001|Armat
+    7400006: Armature.001|Armature.001|Armature.001|Die|Armature.001|Die
+    7400008: Armature.001|Armature.001|Armature.001|Roll|Armature.001|Roll
+    7400010: Armature.001|Armature.001|Armature.001|RunCycle_Backwards|Armature.001|RunCy
+    7400012: Armature.001|Armature.001|Armature.001|RunCycle_Forward|Armature.001|RunCycl
+    7400014: Armature.001|Armature.001|Armature.001|SideStep_Left|Armature.001|SideStep_L
+    7400016: Armature.001|Armature.001|Armature.001|SideStep_Right|Armature.001|SideStep_
+    9500000: //RootNode
+    13700000: Cube.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

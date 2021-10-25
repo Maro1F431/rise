@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/SplashScreen.unity
+    guid: 2ed52823d85d4f04e90b3d0071e88c07
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 01a19a317f76ff945995ecb91019e8e3
+  - enabled: 1
+    path: Assets/Scenes/Menu/GalleryMenu.unity
+    guid: b98f594d2b59803498953e86c9394a69
+  - enabled: 1
+    path: Assets/Scenes/Maps/Movement Test.unity
+    guid: bf979900b48bc884f93f766ca96b54b4
+  - enabled: 1
+    path: Assets/Scenes/Maps/Boss Map.unity
+    guid: 2ef8f67fc147536408cd5c1b52d5b1fb
+  - enabled: 0
+    path: 
+    guid: de98f8f245747d9469904948709a2480
+  - enabled: 1
+    path: Assets/Scenes/Maps/Gallery.unity
+    guid: 9af3bcbb4b88db24aa92909a58afa439
+  - enabled: 1
+    path: Assets/Scenes/Maps/LeaderBoard.unity
+    guid: 65bc79ea8eb59b74e8f04c592c7ab108
+  - enabled: 1
+    path: Assets/Scenes/Maps/test rise 2.unity
+    guid: b1d000d4bccdd0741bee83ab79b368f3
+  - enabled: 1
+    path: Assets/Scenes/Menu/Crafting.unity
+    guid: e212f2fad7e15f046bbc974a3353c24d
+  - enabled: 1
+    path: Assets/Scenes/Online/PUN.unity
+    guid: 57193f9a61427904a9356731fbda194c
+  - enabled: 1
+    path: Assets/Scenes/EmptyScene.unity
+    guid: 09e26d79d74c975438c262056fb79a01
+  m_configObjects: {}

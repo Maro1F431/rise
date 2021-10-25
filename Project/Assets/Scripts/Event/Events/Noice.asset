@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 534a8c1d0ea2a8b46891da76681a540f, type: 3}
+  m_Name: Noice
+  m_EditorClassIdentifier: 
+  itemList:
+  - {fileID: 11400000, guid: 254bce6f20d706646aa0456bcb00280c, type: 2}
+  - {fileID: 11400000, guid: e1de7d2ac208c134894098c10e30160a, type: 2}
+  - {fileID: 11400000, guid: 8cb6a86992a77e8408730aa7efd3f1ec, type: 2}
+  - {fileID: 11400000, guid: 8cb6a86992a77e8408730aa7efd3f1ec, type: 2}
+  - {fileID: 11400000, guid: 2f557bd7820780e4b8a134a22bce8ede, type: 2}
